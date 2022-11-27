@@ -1,37 +1,37 @@
 export default data = [
     {
-        question: "Quel est la longeur de mon entre jambes",
-        options: ["12cm","6cm","34cm","2cm"],
-        correct_option: "2cm"
+        question: "Comment s'appelle l'océan d'ou vient Luffy",
+        options: ["East Blue","South Blue","North Blue","West Blue"],
+        correct_option: "East Blue"
     },
     {
-        question: "Qu'est que une femme arabe avec des cacahuette dans le cul",
-        options: ["La Femme a rachid","La femme a Bouder","Patricia"],
-        correct_option: "Taj Mahal"
+        question: "Combien d'enfant a Big Mom",
+        options: ["90","67","85","74"],
+        correct_option: "85"
     },
     {
-        question: "What land animal can open its mouth the widest?",
-        options: ["Alligator","Crocodile","Baboon","Hippo"],
-        correct_option: "Hippo"
+        question: "Combien vaut la prime de Zoro après Wano ",
+        options: ["1,100M","1,001M","999M","1,111M"],
+        correct_option: "1,111M"
     },
     {
-        question: "What is the largest animal on Earth?",
-        options: ["The African elephant","The blue whale","The sperm whale","The giant squid"],
-        correct_option: "The blue whale"
+        question: "Quel est le vrai nom de Barbe Noir",
+        options: ["The African elephant","Marshall D Xebec","Marshall D Peach","Marshall D Teach"],
+        correct_option: "Marshall D Teach"
     },
     {
-        question: "What is the only flying mammal?",
-        options: ["The bat","The flying squirrel","The bald eagle","The colugo"],
-        correct_option: "The bat"
+        question: "Que perd Shanks en sauvant luffy",
+        options: ["Sa jambe","Sa Queue","Sa Main","Son Bras"],
+        correct_option: "Son Bras"
     },
     {
-        question: "What is the only flying mammal?",
-        options: ["The bat","The flying squirrel","The bald eagle","The colugo"],
-        correct_option: "The bat"
+        question: "Quel age a Luffy a Wano",
+        options: ["20 ans","14ans","17ans","19ans"],
+        correct_option: "19ans"
     },
     {
-        question: "What is the only flying mammal?",
-        options: ["The bat","The flying squirrel","The bald eagle","The colugo"],
-        correct_option: "The bat"
+        question: "A quel personnage appartient ce rire Zehahahaha",
+        options: ["Ton oncle","Ton daron","Ta Tante","Marshall D Teach"],
+        correct_option: "Ton oncle"
     }
 ]
